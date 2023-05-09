@@ -10,7 +10,7 @@ const Title = ({ className }: Props): JSX.Element => (
       className ?? ''
     }`}
   >
-    Fishing<p className="text-gray-500 "> Boat</p>
+    Fishing<p className="text-gray-500 "> Boat 2</p>
   </div>
 )
 
